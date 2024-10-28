@@ -1,4 +1,3 @@
-# exercice3
 # Git Worktrees : Concept et Utilisation
 
 Les Git worktrees permettent de gérer plusieurs répertoires de travail attachés à un seul dépôt. Cela est utile pour travailler sur différentes branches ou tâches simultanément sans avoir à changer fréquemment de branche dans un seul répertoire de travail. Ce README fournit une explication détaillée des Git worktrees avec des exemples pratiques.
